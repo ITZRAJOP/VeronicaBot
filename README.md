@@ -18,7 +18,7 @@ Heroku is the easiest way to deploy this Bot
 - Join Our [Telegram Group](https://t.me/TFNBOT_SUPPORT) 
 - Join Our [Channel](https://t.me/FURIOUS_EMPIRE) For Updates.
 
--  🦅**TFN ON FIRE BABY **🦅
+- 🔥TFN ON FIRE BABY🔥
 
 # Mandatory Vars 🛠
 
