@@ -1,5 +1,5 @@
 <h1 align="center"><b><b>MentionAll_Bot</b></b></h1>
-_**Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS and can Mention Members upto 200 in CHANNELS !**_
+Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS and can Mention Members upto 200 in CHANNELS 
 
 <p align="center"><a href="https://t.me/TFNBOT_SUPPORT"><img src="https://telegra.ph/file/3270ace8cb429ce0a553c.jpg" width="400"></a></p>
 
@@ -28,5 +28,5 @@ Heroku is the easiest way to deploy this Bot
 
 
 ### Special Thanks To 💖
-- [ᴘᴀʀsʜᴜʀᴀᴍ](https://github.com/ITZ_PARSHURAM):ᴏᴡɴᴇʀ
-- [sʜɪᴋᴀʀᴏ](https://github.com/ShikariBaaZ):ᴅᴇᴠ
+- [ᴘᴀʀsʜᴜʀᴀᴍ](https://github.com/ITZ_PARSHURAM) ᴏᴡɴᴇʀ
+- [sʜɪᴋᴀʀᴏ](https://github.com/ShikariBaaZ) ᴅᴇᴠ
