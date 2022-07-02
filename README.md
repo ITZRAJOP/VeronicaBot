@@ -28,5 +28,5 @@ Heroku is the easiest way to deploy this Bot
 
 
 ### Special Thanks To 💖
-- [STAR BOY](https://github.com/ITZRAJOP):STAR BOY
-- [SHIKARI](https://github.com/ShikariBaaZ):Shikari
+- [ᴘᴀʀsʜᴜʀᴀᴍ](https://github.com/ITZ_PARSHURAM):ᴏᴡɴᴇʀ
+- [sʜɪᴋᴀʀᴏ](https://github.com/ShikariBaaZ):ᴅᴇᴠ
