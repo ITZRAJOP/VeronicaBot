@@ -11,7 +11,7 @@ Fork and Follow my Github [ITZRAJOP](https://github.com/ITZRAJOP)
 Heroku is the easiest way to deploy this Bot
 
 # Deploying
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ITZRAJOP/MENTIONALL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ITZRAJOP/VeronicaBot)
 
 ## Support   
 
