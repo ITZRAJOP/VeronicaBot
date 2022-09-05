@@ -21,12 +21,12 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "__**I'm MentionAll Bot**, I will help you to mention near about all members in your group and channel 👻\nClick **/help** for more information__\n\n Follow [@ITZRAJOP](https://github.com/ITZRAJOP) on Github",
+    "__**I'm MentionAll Bot**, I will help you to mention near about all members in your group and channel 👻\nClick **/help** for more information__\n\n Follow [ITZRAJOP](https://github.com/ITZRAJOP) on Github",
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/FURIOUS_EMPIRE'),
-        Button.url('📦 Source', 'https://github.com/ITZRAJOP/MENTIONALL')
+        Button.url('📣 CHANNEL', 'https://t.me/ABOUT_DHANUSH'),
+        Button.url('📦 SOURCE', 'https://github.com/ITZRAJOP/MENTIONALL')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/The_SHIKARI_Network'),
-        Button.url('📦 Source', 'https://github.com/ShikariBaaZ/MentionAll_Bot')
+        Button.url('📣 CHANNEL', 'https://t.me/ABOUT_DHANUSH'),
+        Button.url('📦 SOURCE', 'https://github.com/ITZRAJOP/MENTIONALL')
       ]
     )
   )
